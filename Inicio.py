@@ -83,7 +83,7 @@ def encode_image_to_base64(image_path):
 # UI
 # ─────────────────────────────
 st.title("🎀 Tablero para Guiones")
-st.subheader("Dibuja tu idea y crea el guio para Instagram automáticamente ✨")
+st.subheader("Dibuja tu idea y crea el guion para Instagram automáticamente ✨")
 
 with st.sidebar:
     st.subheader("💖 Configuración")
