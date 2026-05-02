@@ -10,7 +10,7 @@ from streamlit_drawable_canvas import st_canvas
 # ─────────────────────────────
 # CONFIG
 # ─────────────────────────────
-st.set_page_config(page_title='Tablero Inteligente 💖', layout='wide')
+st.set_page_config(page_title='Tablero para Guiones 💖', layout='wide')
 
 # 🎀 GIRLY STYLE
 st.markdown("""
